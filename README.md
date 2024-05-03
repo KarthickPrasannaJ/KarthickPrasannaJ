@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KarthickPrasannaJ
-- 👀 I’m interested in Machine Learning and App development
-- 🌱 I’m currently learning Android Studio for App development
+- 👀 I’m interested in Machine Learning 
 - 📫 How to reach me karthickprasannaj@gmail.com
 
 <!---
